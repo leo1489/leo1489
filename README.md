@@ -15,20 +15,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+👯 
 Hi! 👋 My name is Leonel Revelo and I'm a data scientist and Electronic Engineer
 I explore and extract information hidden in the data to propose optimization tools.
 
 In the last months I finished Henry's bootcamp, where I deepened my knowledge in Python, SQL and machine learning, and learned new tools as Power BI, Docker, hive, among others. These can be seen in the projects made during the bootcamp:
 
-The team project on seismic alerts
+The team project on [seismic alerts](https://github.com/MLGIdata/seismic-alerts)
 The individual projects:
-ETL with python and MySQL
-Machine learning model to classify real state data
-Data analysis of plane crashes since 1908
+  - [ETL with python and MySQL](https://github.com/marianaiv/ETL_PI01)
+  - [Machine learning model to classify properties data](https://github.com/leo1489/EDA_properties_Prediction)
+  - [Data analysis of plane crashes since 1908](https://github.com/leo1489/EDA_Aircrashes)
+
 I'm currently working to grow as a data scientists.
 
-How you can reach me:
-
-📧 leonel_revelo@hotmail.com
-💻 Linkedin
+**How you can reach me**:<br>
+ 
+📧 <a href="mailto:leonel_revelo@hotmail.com">leonel_revelo@hotmail.com</a><br> 
+💻 [Linkedin](https://www.linkedin.com/in/leonel-revelo-tobar-516984213//)
