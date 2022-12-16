@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **leo1489/leo1489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,9 +21,10 @@ In the last months I finished Henry's bootcamp, where I deepened my knowledge in
 
 The team project on [seismic alerts](https://github.com/MLGIdata/seismic-alerts)
 The individual projects:
-  - [ETL with python and MySQL](https://github.com/marianaiv/ETL_PI01)
   - [Machine learning model to classify properties data](https://github.com/leo1489/EDA_properties_Prediction)
   - [Data analysis of plane crashes since 1908](https://github.com/leo1489/EDA_Aircrashes)
+  - [ETL with python and MySQL](https://github.com/leo1489/PI01_DATA04)
+  - [Predict shipment will arrive on time](https://github.com/leo1489/Datathon-cohorte3)
 
 I'm currently working to grow as a data scientists.
 
