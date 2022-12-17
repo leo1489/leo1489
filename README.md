@@ -20,6 +20,7 @@ I explore and extract information hidden in the data to propose optimization too
 In the last months I finished Henry's bootcamp, where I deepened my knowledge in Python, SQL and machine learning, and learned new tools as Power BI, Docker, hive, among others. These can be seen in the projects made during the bootcamp:
 
 The team project on [seismic alerts](https://github.com/MLGIdata/seismic-alerts)
+
 The individual projects:
   - [Machine learning model to classify properties data](https://github.com/leo1489/EDA_properties_Prediction)
   - [Data analysis of plane crashes since 1908](https://github.com/leo1489/EDA_Aircrashes)
