@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👯 
-Hi! 👋 My name is Leonel Revelo and I'm a data scientist and Electronic Engineer
+Hi! 👋 My name is Leonel Revelo and I'm a Electronic and data analyst/engineer. 
 I explore and extract information hidden in the data to propose optimization tools.
 
 In the last months I finished Henry's bootcamp, where I deepened my knowledge in Python, SQL and machine learning, and learned new tools as Power BI, Docker, hive, among others. These can be seen in the projects made during the bootcamp:
